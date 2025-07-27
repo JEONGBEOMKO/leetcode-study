@@ -1,6 +1,11 @@
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 시간복잡도: O(n)
+ * 공간복잡도: O(n)
+ */
+
 class Solution {
 
     public boolean containsDuplicate(int[] nums) {
